@@ -12,7 +12,7 @@ var forOwn = require('for-own');
 module.exports = function reduce(o, fn, acc, thisArg) {
   var first = arguments.length > 2;
 
-  if (!Object.keys(o).length && !first) {
+  if (o && !Object.keys(o).length && !first) {
     return null;
   }
 
