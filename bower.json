@@ -1,0 +1,7 @@
+{
+  "name": "reduce-object",
+  "version": "0.1.3",
+  "main": [
+    "index.js"
+  ]
+}
