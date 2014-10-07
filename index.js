@@ -1,5 +1,5 @@
 /*!
- * reduce-object <https://github.com/jonschlinkert/reduce-object>
+ * object.reduce <https://github.com/jonschlinkert/object.reduce>
  *
  * Copyright (c) 2014 Jon Schlinkert, contributors.
  * Licensed under the MIT License
