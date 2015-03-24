@@ -1,8 +1,8 @@
 /*!
  * object.reduce <https://github.com/jonschlinkert/object.reduce>
  *
- * Copyright (c) 2014 Jon Schlinkert, contributors.
- * Licensed under the MIT License
+ * Copyright (c) 2014-2015, Jon Schlinkert.
+ * Licensed under the MIT License.
  */
 
 'use strict';
@@ -24,6 +24,5 @@ module.exports = function reduce(o, fn, acc, thisArg) {
       acc = fn.call(thisArg, acc, value, key, orig);
     }
   });
-
   return acc;
 };
