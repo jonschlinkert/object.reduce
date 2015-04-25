@@ -20,7 +20,7 @@
     "index.js"
   ],
   "dependencies": {
-    "for-own": "^0.1.2"
+    "for-own": "^0.1.3"
   },
   "devDependencies": {
     "mocha": "*",
