@@ -3,21 +3,12 @@
   "description": "Reduces an object to a value that is the accumulated result of running each property in the object through a callback.",
   "version": "0.1.7",
   "homepage": "https://github.com/jonschlinkert/object.reduce",
-  "author": {
-    "name": "Jon Schlinkert",
-    "url": "https://github.com/jonschlinkert"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/jonschlinkert/object.reduce.git"
-  },
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/object.reduce",
   "bugs": {
     "url": "https://github.com/jonschlinkert/object.reduce/issues"
   },
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/jonschlinkert/object.reduce/blob/master/LICENSE"
-  },
+  "license": "MIT",
   "files": [
     "index.js"
   ],
