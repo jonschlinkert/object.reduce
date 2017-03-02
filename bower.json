@@ -1,7 +1,7 @@
 {
   "name": "object.reduce",
   "description": "Reduces an object to a value that is the accumulated result of running each property in the object through a callback.",
-  "version": "0.1.7",
+  "version": "1.0.0",
   "homepage": "https://github.com/jonschlinkert/object.reduce",
   "authors": [
     "Jon Schlinkert"
